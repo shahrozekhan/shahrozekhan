@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shahrozekhan&label=Profile%20views&color=0e75b6&style=flat" alt="shahrozekhan" /> </p>
 
-- 🔭 I’m currently working on [Currency Convertor](currency_convertor)
+- 🔭 I’m currently working on [Currency Convertor](KMPCurrencyConvertor) : Compose Multiplatform (Android (Dark and Light theme support)& IOS)
 
 - 🌱 I’m currently learning **Compose Multi platform**
 
@@ -21,4 +21,12 @@
 
 - ⚡ Fun fact **I cant stop talking when it comes to KMM, Software architecture and Emerging technologies**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrozekhan&" alt="shahrozekhan" /></p>
+## 📂 My projects
+
+Here are some of the projects I'm proud of:
+
+- [Project 1](https://github.com/shahrozekhan/CurrencyConvertorAndroid):MVVM clean architecture with repository pattern, use cases and jetpack components.
+  
+...
+
+Feel free to explore my repositories and let me know what you think! 😊
