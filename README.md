@@ -25,8 +25,8 @@
 
 Here are some of the projects I'm proud of:
 
+- [Multi Platform - Currency Convertor](https://github.com/shahrozekhan/KMPCurrencyConvertor) :  Android (Dark and Light Theme) & IOS 95 %. MVVM clean architecture with repository pattern, Use cases and Jetpack components.
 - [Android - Currency Convertor ](https://github.com/shahrozekhan/CurrencyConvertorAndroid): MVVM clean architecture with repository pattern, use cases and jetpack components.
-  
 ...
 
 Feel free to explore my repositories and let me know what you think! 😊
