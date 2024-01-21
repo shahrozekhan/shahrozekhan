@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shahrozekhan&label=Profile%20views&color=0e75b6&style=flat" alt="shahrozekhan" /> </p>
 
-- 🔭 I’m currently working on [Multi Platform - Currency Convertor](KMPCurrencyConvertor) :  Android (Dark and Light Theme) & IOS 95 %.
+- 🔭 I’m currently working on [Multi Platform - Currency Convertor](https://github.com/shahrozekhan/KMPCurrencyConvertor) :  Android (Dark and Light Theme) & IOS 95 %.
 
 - 🌱 I’m currently learning **Compose Multi platform (Desktop)**
 
