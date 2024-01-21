@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahroze Khan</h1>
-<h3 align="center">A Software Engineer, Kotlin Developer (Android, Compose Multiplatform).</h3>
+<h3 align="center">A Software Engineer, Kotlin & Java (Android, Compose Multiplatform).</h3>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahrozekhan&theme=ambient_gradient&show_icons=true&locale=en" alt="shahrozekhan" /></p>
