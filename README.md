@@ -17,7 +17,7 @@
 
 ### 🌱 Currently Exploring
 
-- Learning **Compose Multiplatform (Desktop)**
+- Learning **Flutter (Hybrid Platforms)**
 
 ### 📂 My Projects
 
