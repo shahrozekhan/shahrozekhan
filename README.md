@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Shahroze Khan
 
-🚀 Software Engineer | Kotlin & Java Enthusiast | Android & Compose Multiplatform Developer
+🚀 Software Engineer | Dart, Kotlin & Java Enthusiast | Android, Flutter & Compose Multiplatform Developer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahrozekhan&theme=jolly&show_icons=true&locale=en)
 
